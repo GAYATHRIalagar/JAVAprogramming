@@ -25,9 +25,9 @@ class Ideone
 }
 
 
+OUTPUT:
 
-
- 1
+     1
     222
    33333
   4444444
